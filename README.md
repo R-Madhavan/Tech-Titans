@@ -4,12 +4,12 @@
 
 - Solidity (Writing Smart Contracts & Tests)
 - Javascript (React & Testing)
-- [Hardhat](https://hardhat.org/) (Development Framework)
-- [Ethers.js](https://docs.ethers.io/v5/) (Blockchain Interaction)
-- [React.js](https://reactjs.org/) (Frontend Framework)
+- [Hardhat]
+- [Ethers.js]
+- [React.js]
 
 ## Requirements For Initial Setup
-- Install [NodeJS](https://nodejs.org/en/)
+- Install [NodeJS]
 
 ## Setting Up
 ### 1. Clone/Download the Repository
@@ -26,6 +26,9 @@
 ### 5. Run deployment script
 In a separate terminal execute:
 `> npx hardhat run ./scripts/deploy.js --network localhost`
-
+### 6. Update config.json , setup and import hardhat testnet Eth
+    -chain id
+    -escrow address
+    -realestate address
 ### 7. Start frontend
 `> npm run start`
