@@ -1,4 +1,4 @@
-# Real Estate NFT DApp (Team Tech Titans)
+# Real Estate NFT Decentralized Application (Team Tech Titans)
 
 ## Technology Stack & Tools
 
